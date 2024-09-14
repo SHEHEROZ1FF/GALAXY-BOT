@@ -9,8 +9,8 @@
 /_______  /\___|_  /|___|  \___/\____|__  / 
         \/       \/                     \/  
                     
-DISCORD :  https://discord.com/invite/xQF9f9yUEM                   
-YouTube : https://www.youtube.com/@GlaceYT                         
+DISCORD :  https://discord.gg/dhBmaEp5PR                   
+YouTube :  https://youtube.com/@sheheroz1ff?si=uukqqpehmifaXRed                        
                                                                        
 ☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
 
@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 GALAXY MUSIC IN", "🎮 Playing A MINECRAFT SERVER NANE GALAXY NETWORK"];
+const statusMessages = ["🎧 IN GALAXY MUSIC ", "🎮 Playing A MINECRAFT SERVER NANE GALAXY NETWORK"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
